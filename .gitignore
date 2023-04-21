@@ -1,3 +1,6 @@
+*.pyc
+*.pyo
+*.pyd
 .misc
 .misc/
 __pycache__/
