@@ -1,0 +1,5 @@
+.misc
+.misc/
+Dockerfile
+build.sh
+__pycache__/
